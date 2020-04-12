@@ -34,6 +34,5 @@ public class for_loops {
 //infinite loop
 		for(;;) {
 			//code
-		}
-	}
-}
+		}}}
+			
