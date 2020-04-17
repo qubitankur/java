@@ -1,2 +1,3 @@
-# writting_java
-Learning java language
+# java
+Learning java language 
+@Java: A Beginner's Guide, Sixth Edition
